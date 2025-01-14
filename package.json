@@ -18,7 +18,7 @@
 		"start": "gulp serve"
 	},
 	"dependencies": {
-		"systemjs": "0.19.x",
+		"systemjs": "0.21.6",
 		"angular2": "2.0.0-beta.0",
 		"es6-promise": "^3.0.2",
 		"es6-shim": "^0.33.3",
